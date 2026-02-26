@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   destination:
-    namespace: webappone
+    namespace: webappone-ns
     name: in-cluster
   syncPolicy:
     automated: {}
