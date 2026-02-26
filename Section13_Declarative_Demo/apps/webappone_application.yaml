@@ -18,3 +18,4 @@ spec:
     repoURL: https://github.com/gilsonbellon/Argo-CD-for-the-Absolute-Beginners.git
     path: Section13_Declarative_Demo/apps/webappone
     targetRevision: HEAD
+ 
